@@ -1,0 +1,22 @@
+D:\Универ\3 курс\Designing the architecture of software systems\Solutions\Patterns_Composite\Patterns_Composite\bin\Debug\netcoreapp3.1\Patterns_Composite.exe
+D:\Универ\3 курс\Designing the architecture of software systems\Solutions\Patterns_Composite\Patterns_Composite\bin\Debug\netcoreapp3.1\Patterns_Composite.deps.json
+D:\Универ\3 курс\Designing the architecture of software systems\Solutions\Patterns_Composite\Patterns_Composite\bin\Debug\netcoreapp3.1\Patterns_Composite.runtimeconfig.json
+D:\Универ\3 курс\Designing the architecture of software systems\Solutions\Patterns_Composite\Patterns_Composite\bin\Debug\netcoreapp3.1\Patterns_Composite.runtimeconfig.dev.json
+D:\Универ\3 курс\Designing the architecture of software systems\Solutions\Patterns_Composite\Patterns_Composite\bin\Debug\netcoreapp3.1\Patterns_Composite.dll
+D:\Универ\3 курс\Designing the architecture of software systems\Solutions\Patterns_Composite\Patterns_Composite\bin\Debug\netcoreapp3.1\Patterns_Composite.pdb
+D:\Универ\3 курс\Designing the architecture of software systems\Solutions\Patterns_Composite\Patterns_Composite\obj\Debug\netcoreapp3.1\Patterns_Composite.csprojAssemblyReference.cache
+D:\Универ\3 курс\Designing the architecture of software systems\Solutions\Patterns_Composite\Patterns_Composite\obj\Debug\netcoreapp3.1\Patterns_Composite.AssemblyInfoInputs.cache
+D:\Универ\3 курс\Designing the architecture of software systems\Solutions\Patterns_Composite\Patterns_Composite\obj\Debug\netcoreapp3.1\Patterns_Composite.AssemblyInfo.cs
+D:\Универ\3 курс\Designing the architecture of software systems\Solutions\Patterns_Composite\Patterns_Composite\obj\Debug\netcoreapp3.1\Patterns_Composite.dll
+D:\Универ\3 курс\Designing the architecture of software systems\Solutions\Patterns_Composite\Patterns_Composite\obj\Debug\netcoreapp3.1\Patterns_Composite.pdb
+D:\Универ\3 курс\Designing the architecture of software systems\Solutions\Third task\Patterns_Composite\Patterns_Composite\bin\Debug\netcoreapp3.1\Patterns_Composite.exe
+D:\Универ\3 курс\Designing the architecture of software systems\Solutions\Third task\Patterns_Composite\Patterns_Composite\bin\Debug\netcoreapp3.1\Patterns_Composite.deps.json
+D:\Универ\3 курс\Designing the architecture of software systems\Solutions\Third task\Patterns_Composite\Patterns_Composite\bin\Debug\netcoreapp3.1\Patterns_Composite.runtimeconfig.json
+D:\Универ\3 курс\Designing the architecture of software systems\Solutions\Third task\Patterns_Composite\Patterns_Composite\bin\Debug\netcoreapp3.1\Patterns_Composite.runtimeconfig.dev.json
+D:\Универ\3 курс\Designing the architecture of software systems\Solutions\Third task\Patterns_Composite\Patterns_Composite\bin\Debug\netcoreapp3.1\Patterns_Composite.dll
+D:\Универ\3 курс\Designing the architecture of software systems\Solutions\Third task\Patterns_Composite\Patterns_Composite\bin\Debug\netcoreapp3.1\Patterns_Composite.pdb
+D:\Универ\3 курс\Designing the architecture of software systems\Solutions\Third task\Patterns_Composite\Patterns_Composite\obj\Debug\netcoreapp3.1\Patterns_Composite.csprojAssemblyReference.cache
+D:\Универ\3 курс\Designing the architecture of software systems\Solutions\Third task\Patterns_Composite\Patterns_Composite\obj\Debug\netcoreapp3.1\Patterns_Composite.AssemblyInfoInputs.cache
+D:\Универ\3 курс\Designing the architecture of software systems\Solutions\Third task\Patterns_Composite\Patterns_Composite\obj\Debug\netcoreapp3.1\Patterns_Composite.AssemblyInfo.cs
+D:\Универ\3 курс\Designing the architecture of software systems\Solutions\Third task\Patterns_Composite\Patterns_Composite\obj\Debug\netcoreapp3.1\Patterns_Composite.dll
+D:\Универ\3 курс\Designing the architecture of software systems\Solutions\Third task\Patterns_Composite\Patterns_Composite\obj\Debug\netcoreapp3.1\Patterns_Composite.pdb
