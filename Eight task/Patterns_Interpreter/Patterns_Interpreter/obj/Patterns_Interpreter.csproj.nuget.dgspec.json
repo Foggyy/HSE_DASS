@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Универ\\3 курс\\Designing the architecture of software systems\\Solutions\\Third task\\Patterns_Composite\\Patterns_Composite\\Patterns_Composite.csproj": {}
+    "D:\\Универ\\3 курс\\Designing the architecture of software systems\\Solutions\\Eight task\\Patterns_Interpreter\\Patterns_Interpreter\\Patterns_Interpreter.csproj": {}
   },
   "projects": {
-    "D:\\Универ\\3 курс\\Designing the architecture of software systems\\Solutions\\Third task\\Patterns_Composite\\Patterns_Composite\\Patterns_Composite.csproj": {
+    "D:\\Универ\\3 курс\\Designing the architecture of software systems\\Solutions\\Eight task\\Patterns_Interpreter\\Patterns_Interpreter\\Patterns_Interpreter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Универ\\3 курс\\Designing the architecture of software systems\\Solutions\\Third task\\Patterns_Composite\\Patterns_Composite\\Patterns_Composite.csproj",
-        "projectName": "Patterns_Composite",
-        "projectPath": "D:\\Универ\\3 курс\\Designing the architecture of software systems\\Solutions\\Third task\\Patterns_Composite\\Patterns_Composite\\Patterns_Composite.csproj",
+        "projectUniqueName": "D:\\Универ\\3 курс\\Designing the architecture of software systems\\Solutions\\Eight task\\Patterns_Interpreter\\Patterns_Interpreter\\Patterns_Interpreter.csproj",
+        "projectName": "Patterns_Interpreter",
+        "projectPath": "D:\\Универ\\3 курс\\Designing the architecture of software systems\\Solutions\\Eight task\\Patterns_Interpreter\\Patterns_Interpreter\\Patterns_Interpreter.csproj",
         "packagesPath": "C:\\Users\\Fogyy\\.nuget\\packages\\",
-        "outputPath": "D:\\Универ\\3 курс\\Designing the architecture of software systems\\Solutions\\Third task\\Patterns_Composite\\Patterns_Composite\\obj\\",
+        "outputPath": "D:\\Универ\\3 курс\\Designing the architecture of software systems\\Solutions\\Eight task\\Patterns_Interpreter\\Patterns_Interpreter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fogyy\\AppData\\Roaming\\NuGet\\NuGet.Config",
